@@ -1,0 +1,38 @@
+#map{
+    height: 60vh;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px 5px gray;
+    margin-bottom: 5vh;
+}
+
+button{
+    border-radius: 10px;
+    background-color: gray;
+}
+
+#mainBody{
+    background-color: darkgray;
+}
+
+h1{
+    font-family: 'Baloo 2';
+    font-size: 30px;
+    text-align: center;
+    padding: 1em;
+    color: white;
+    text-shadow: 1px 1px gray;
+}
+
+h2{
+    font-family: 'Baloo 2';
+    font-size: 24px;
+    text-align: center;
+    padding: 1em;
+    color: white;
+    text-shadow: 1px 1px gray;
+}
+
+#storeTable{
+    vertical-align: center;
+    justify-content: center;
+}
